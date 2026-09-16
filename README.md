@@ -1,3 +1,18 @@
+> [!IMPORTANT]
+> ## 🔒 Fincept Terminal **Enterprise** — the private edition. Launch price: **90% off, ends soon.**
+> Proprietary real-time data · Multi-agent AI research · Live broker & algo execution · Priority support
+>
+> | Plan | Was | **Launch price** |
+> |:--|:--:|:--:|
+> | **Exclusive** | ~~$99~~ | **$10** /user/mo |
+> | **Exclusive+** | ~~$199~~ | **$20** /user/mo |
+> | **Exclusive Pro** ⭐ Most popular | ~~$299~~ | **$40** /user/mo |
+>
+> [![Claim launch price](https://img.shields.io/badge/%F0%9F%94%A5_Claim_launch_price_%E2%86%92-C06524?style=for-the-badge)](https://fincept.in/enterprise/signup) &nbsp; [![Compare plans](https://img.shields.io/badge/Compare_plans-1F2328?style=for-the-badge)](https://fincept.in/pricing)
+>
+> <sub>Early seats locked in at launch price for life · No annual lock-in, cancel anytime · This open-source repo stays free under AGPL-3.0</sub>
+
+
 > [!TIP]
 > ## Quantcept — the AI research desk that never closes.
 > Markets · Backtests · Portfolios · Documents · Watchlists · Memory — 30+ primary data sources, running around the clock.
@@ -12,19 +27,6 @@
 >
 > <sub>30-day passes — nothing auto-renews · Students: Alpha for $10 · Free to start at [quantcept.io](https://quantcept.io)</sub>
 
-> [!IMPORTANT]
-> ## 🔒 Fincept Terminal **Enterprise** — the private edition. Launch price: **90% off, ends soon.**
-> Proprietary real-time data · Multi-agent AI research · Live broker & algo execution · Priority support
->
-> | Plan | Was | **Launch price** |
-> |:--|:--:|:--:|
-> | **Exclusive** | ~~$99~~ | **$10** /user/mo |
-> | **Exclusive+** | ~~$199~~ | **$20** /user/mo |
-> | **Exclusive Pro** ⭐ Most popular | ~~$299~~ | **$40** /user/mo |
->
-> [![Claim launch price](https://img.shields.io/badge/%F0%9F%94%A5_Claim_launch_price_%E2%86%92-C06524?style=for-the-badge)](https://fincept.in/enterprise/signup) &nbsp; [![Compare plans](https://img.shields.io/badge/Compare_plans-1F2328?style=for-the-badge)](https://fincept.in/pricing)
->
-> <sub>Early seats locked in at launch price for life · No annual lock-in, cancel anytime · This open-source repo stays free under AGPL-3.0</sub>
 
 # Fincept Terminal
 
