@@ -15,13 +15,13 @@
 
 > [!TIP]
 > ## Quantcept — the AI research desk that never closes.
-> Markets · Backtests · Portfolios · Documents · Watchlists · Memory — 30+ primary data sources, running around the clock.
+> Markets · Backtests · Portfolios · Watchlists · Memory — 800+ primary data sources, running around the clock.
 >
 > | Plan | Price |
 > |:--|:--:|
 > | **Free** | **$0** · 350 credits, no card |
-> | **Alpha** | **$14** / 30 days |
-> | **Apex** | **$24** / 30 days |
+> | **Alpha** | **$3** / 30 days |
+> | **Apex** | **$8** / 30 days |
 >
 > [![Start free](https://img.shields.io/badge/Start_free_%E2%86%92-0E7490?style=for-the-badge)](https://quantcept.io/register) &nbsp; [![See the desk](https://img.shields.io/badge/See_the_desk-1F2328?style=for-the-badge)](https://quantcept.io)
 >
